@@ -1,0 +1,156 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Thirsty Dudes */ = {
+		activeExec = 0;
+		executables = (
+			4DB6C11B137348ED001A184A /* Thirsty Dudes */,
+		);
+	};
+	24D8E3B5119B9D8A00F8CAA6 /* Thirsty Dudes-iPad */ = {
+		activeExec = 0;
+		executables = (
+			4DB6C11C137348ED001A184A /* Thirsty Dudes-iPad */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 4DB6C11B137348ED001A184A /* Thirsty Dudes */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Thirsty Dudes */;
+		codeSenseManager = 4DB6C14D13734902001A184A /* Code sense */;
+		executables = (
+			4DB6C11B137348ED001A184A /* Thirsty Dudes */,
+			4DB6C11C137348ED001A184A /* Thirsty Dudes-iPad */,
+			4DB6C11D137348ED001A184A /* Thirsty Dudes-universal */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 326322947;
+			PBXWorkspaceStateSaveDate = 326322947;
+		};
+		sourceControlManager = 4DB6C14C13734902001A184A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	4DB6C11B137348ED001A184A /* Thirsty Dudes */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Thirsty Dudes";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	4DB6C11C137348ED001A184A /* Thirsty Dudes-iPad */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Thirsty Dudes-iPad";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	4DB6C11D137348ED001A184A /* Thirsty Dudes-universal */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Thirsty Dudes-universal";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	4DB6C14C13734902001A184A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	4DB6C14D13734902001A184A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	DABB369A12E8CB280026A6EA /* Thirsty Dudes-universal */ = {
+		activeExec = 0;
+		executables = (
+			4DB6C11D137348ED001A184A /* Thirsty Dudes-universal */,
+		);
+	};
+}

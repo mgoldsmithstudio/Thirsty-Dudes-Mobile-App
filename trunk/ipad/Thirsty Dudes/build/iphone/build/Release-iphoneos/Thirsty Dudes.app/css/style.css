@@ -1,0 +1,170 @@
+html, body{
+  padding-left:6px;
+  padding-right:12px;
+  padding-top:0px;
+  padding-bottom:6px;
+  margin:0;
+  overflow: hidden; 
+  background-color:#dfd7a9;
+}
+
+a {
+  color: #6D6D47;
+  text-decoration: none;
+}
+
+a:hover,
+a:active {
+  text-decoration: underline;
+}
+
+h3
+{
+  font-family:Helvetica Neue; 
+  font-size:30px;
+}
+
+#content
+{
+  font-family:Helvetica Neue; 
+  font-size:23px;
+  margin-top:10px;
+  margin-left:10px;
+  margin-right:10px;
+
+}
+
+#detail
+{
+  min-height:230px;
+}
+
+#commentBtn
+{
+  float:left;
+}
+
+
+#about
+{
+  margin-top:6px;
+}
+
+
+
+.comments
+{
+  padding-top:10px;
+}
+
+.comments .comment {
+  background-color: #E1D6A9;
+  margin-bottom: 1em;
+  position: relative;
+}
+
+.comments .comment.altrow {
+  background-color: #BBB28D;
+}
+
+
+
+.comments .comment .edit {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.comments .comment .image {
+  padding:12px;
+  float: left;
+  width: 50px;
+}
+
+.comments .comment .content {
+  margin-left: 140px;
+  padding:0;
+}
+
+#contentInner {
+  padding: 6px;
+  margin:0;
+}
+
+.author {
+  font-weight:bold;
+  font-size:25px;
+}
+
+
+
+
+
+
+
+
+.resize {width: 100px; height: auto; }
+
+.resize { width: auto; height: 200px; }
+
+#info {
+  padding-top:18px;
+  font-family:Helvetica Neue; 
+  
+}
+
+#info a {
+  color: #6D6D47;
+  text-decoration: none;
+}
+
+#info a:hover,
+#info a:active {
+  text-decoration: underline;
+}
+
+
+#info dl {
+  margin: 0 0 0.5em 0;
+}
+
+
+#info dt {
+  font-weight: bold;
+  float: left;
+  width: 150px;
+}
+
+#info dd {
+  margin-left: 170px;
+}
+
+#info dd .rating {
+  background-image: url('images/rating.gif');
+  background-repeat: no-repeat;
+  display: block;
+  height: 50px;
+  overflow: hidden;
+  text-indent: -999em;
+  width: 90px;
+}
+
+#info dd .rating.rating_1 {
+  background-position: 0 0;
+}
+
+#info dd .rating.rating_2 {
+  background-position: 0 -50px;
+}
+
+#info dd .rating.rating_3 {
+  background-position: 0 -100px;
+}
+
+#info dd .rating.rating_4 {
+  background-position: 0 -150px;
+}
+
+#info dd .rating.rating_5 {
+  background-position: 0 -200px;
+}
